@@ -1,4 +1,4 @@
-# datascience_notebooks
+# Notebooks
 
 Here you will find different notebooks concerning data science and machine learning applied to a variety of problems:
 
